@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+//form that renders when user clicks on the marker 
 const Form = (props) => {
 // //locationInfo: '',
 // tagInfo: '',
